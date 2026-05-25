@@ -1,242 +1,378 @@
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--          MANIKANTA BODA — GitHub Profile README            -->
+<!--          github.com/LuckysHorizon                          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<!-- VISITOR COUNTER -->
-<img src="https://komarev.com/ghpvc/?username=LuckysHorizon&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile Views" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/LuckysHorizon?style=for-the-badge&color=0e75b6&label=FOLLOWERS" alt="Followers" />
+<!-- VISITOR BADGE -->
+<img src="https://komarev.com/ghpvc/?username=LuckysHorizon&style=flat-square&color=0e75b6&label=profile+views" alt="profile views" />
 
 <br/><br/>
 
-<!-- WAVE + NAME -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Manikanta+Boda+%F0%9F%91%8B" alt="Name" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+%26+Backend+Engineer;Java+%7C+Spring+Boot+%7C+React.js;Building+Production-Grade+Systems;Agentic+AI+%40+Kustard+Technologies;LeetCode+480%2B+%7C+9+Badges+%F0%9F%8F%86" alt="Typing SVG" />
+<!-- ANIMATED HEADING -->
+<a href="https://manikantaboda.online">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&lines=Manikanta+Boda;Full-Stack+%26+Backend+Engineer" alt="Name" />
+</a>
 
 <br/>
 
-<!-- PORTFOLIO BADGE -->
-<a href="https://manikantaboda.online" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-manikantaboda.online-0e75b6?style=for-the-badge" alt="Portfolio" />
+<a href="https://manikantaboda.online">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=2500&pause=800&color=8B949E&center=true&vCenter=true&width=720&lines=Java+%7C+Spring+Boot+%7C+React+%7C+Node.js;Building+production-grade+systems+%40+scale;99.5%25+transaction+success+rate+in+production;Agentic+AI+%40+Kustard+Technologies;LeetCode+480%2B+solved+%C2%B7+9+badges" alt="Taglines" />
+</a>
+
+<br/><br/>
+
+<!-- TOP NAV LINKS -->
+<a href="https://manikantaboda.online">
+  <img src="https://img.shields.io/badge/-Portfolio-0e75b6?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/manikanta-boda-01b301344/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<a href="https://www.linkedin.com/in/manikanta-boda-01b301344/">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="https://leetcode.com/u/ManikantaBoda/">
+  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
 </a>
 &nbsp;
 <a href="mailto:manikantaboda07@gmail.com">
-  <img src="https://img.shields.io/badge/Email-manikantaboda07%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+&nbsp;
+<a href="https://github.com/LuckysHorizon">
+  <img src="https://img.shields.io/badge/-GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 </div>
 
----
-
-## `$ whoami`
-
-```typescript
-class ManikantaBoda {
-  role     = "Full-Stack & Backend Engineer"
-  location = "Hyderabad, India 🇮🇳"
-  college  = "Institute of Aeronautical Engineering (IARE) — Class of 2027 · CGPA 8.76"
-  current  = "Software Trainee @ Kustard Technologies — Agentic AI Integrations"
-
-  stats = {
-    leetcode  : "480+ problems solved · 9 badges · Rank ~200K",
-    codechef  : "446+ problems solved · 3 badges",
-    projects  : "99.5% transaction success rate · 94% AI accuracy (production)",
-  }
-
-  focus    = ["Backend Systems", "REST APIs", "Cloud Architecture", "AI Products"]
-  mindset  = "user-first · scalable · always shipping"
-  status   = "🟢 Open to internships & collaborations"
-}
-```
-
-<details>
-<summary><b>✨ A bit more about me</b></summary>
 <br/>
 
-- 🎓 **CS undergrad** at IARE Hyderabad — consistently pushing the CGPA (8.76/10)
-- 💼 **Software Trainee** at Kustard Technologies working on Agentic AI integrations in production
-- 🚀 **Shipped real systems** — billing platform with 99.5% txn success, AI learning platform with 94% accuracy
-- 🏆 **Competitive programmer** — LeetCode 480+, CodeChef 446+, always grinding
-- ⚡ I architect backends, design APIs, wire up payments, and deploy to cloud — full cycle
-- 📖 Currently exploring: Tauri desktop apps, NLP scheduling, and unified payment gateway wrappers
-- 🎯 Goal: Build one thing every month that solves a real problem
+---
 
-</details>
+<br/>
+
+## `$ cat whoami.ts`
+
+```typescript
+const manikanta = {
+  name      : "Manikanta Boda",
+  role      : "Full-Stack & Backend Engineer",
+  location  : "Hyderabad, India",
+  education : "B.Tech Computer Science — IARE (2027) · CGPA 8.76",
+  current   : "Software Trainee @ Kustard Technologies — Agentic AI",
+  portfolio : "https://manikantaboda.online",
+
+  highlights: {
+    transactionSuccessRate : "99.5%  (ReelHaus · production)",
+    aiAccuracy             : "94%    (Vidyapath · production)",
+    leetcode               : "480+   problems · 9 badges · Rank ~200K",
+    codechef               : "446+   problems · 3 badges",
+  },
+
+  architecture : ["REST APIs", "Microservices", "CI/CD", "Cloud-Native"],
+  interests    : ["Backend Systems", "Agentic AI", "Payment Engineering"],
+  status       : "open to internships & collaborations",
+};
+```
+
+<br/>
 
 ---
 
-## 🛠️ Tech Stack
+<br/>
+
+## `$ ls tech-stack/`
+
+<br/>
 
 **Languages**
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<p>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+</p>
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+</p>
 
 **Backend**
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+</p>
 
-**Databases**
+**Databases & Cache**
 
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+</p>
 
-**Cloud & DevOps**
+**Cloud, DevOps & Tools**
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-Pipelines-brightgreen?style=for-the-badge&logo=circleci&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/AWS_S3-FF9900?style=flat-square&logo=amazons3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-0D1117?style=flat-square&logo=circleci&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+</p>
 
----
+**Practices**
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuckysHorizon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuckysHorizon&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LuckysHorizon&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=LuckysHorizon&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🎯 Competitive Programming
-
-<div align="center">
-
-<a href="https://leetcode.com/u/ManikantaBoda/" target="_blank">
-  <img src="https://leetcard.jacoblin.cool/ManikantaBoda?theme=dark&font=Karma&ext=contest&hide=ranking" alt="LeetCode Stats" />
-</a>
-
-</div>
+<p>
+  <img src="https://img.shields.io/badge/Agile-0052CC?style=flat-square&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/SDLC-161b22?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/System_Design-0e75b6?style=flat-square&logo=blueprint&logoColor=white" />
+</p>
 
 <br/>
 
+---
+
+<br/>
+
+## `$ git log --stats`
+
+<!--
+  NOTE FOR SETUP:
+  The stats cards below use the public Vercel instance which can hit rate limits.
+  For 100% reliable rendering, follow the self-hosting steps at the bottom of this README.
+  All URLs below are already set to your username: LuckysHorizon
+-->
+
 <div align="center">
 
-<a href="https://leetcode.com/u/ManikantaBoda/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-480%2B%20Solved%20%7C%209%20Badges-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-</a>
-&nbsp;
-<a href="https://www.codechef.com/users/manikantaboda" target="_blank">
-  <img src="https://img.shields.io/badge/CodeChef-446%2B%20Solved%20%7C%203%20Badges-%235B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
-</a>
+<img
+  height="175"
+  src="https://github-readme-stats.vercel.app/api?username=LuckysHorizon&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&ring_color=58A6FF"
+  alt="GitHub Stats"
+/>
+&nbsp;&nbsp;
+<img
+  height="175"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuckysHorizon&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&langs_count=8"
+  alt="Top Languages"
+/>
+
+<br/><br/>
+
+<img
+  src="https://streak-stats.demolab.com/?user=LuckysHorizon&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6E96&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E"
+  alt="GitHub Streak"
+/>
 
 </div>
 
+<br/>
+
 ---
 
-## 🚀 Featured Projects
+<br/>
+
+## `$ cat trophies.json`
 
 <div align="center">
 
-| Project | Description | Stack | Stats |
+<img
+  src="https://github-profile-trophy.vercel.app/?username=LuckysHorizon&theme=gitdimmed&no-frame=true&row=1&column=7&margin-w=8"
+  alt="GitHub Trophies"
+/>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## `$ cat projects.md`
+
+<br/>
+
+| Project | Description | Stack | Links |
 |---------|-------------|-------|-------|
-| [**TravelBilling**](https://github.com/LuckysHorizon) | Full-stack billing platform — JWT auth, Redis caching, FastAPI PDF microservice, CI/CD | React · Spring Boot · Supabase · Redis · Docker | ![Stars](https://img.shields.io/github/stars/LuckysHorizon/TravelBilling?style=flat-square) |
-| [**ReelHaus**](https://github.com/LuckysHorizon/ReelHaus-Dev) | Event booking platform — **99.5% txn success** · QR ticketing · live seat tracking · Cashfree | React · Node.js · PostgreSQL · Redis · Razorpay | [![Live](https://img.shields.io/badge/live-demo-brightgreen?style=flat-square)](https://reelhaus.onrender.com/) |
-| [**Vidyapath**](https://github.com/LuckysHorizon) | Offline-first PWA — **94% AI accuracy** · multilingual · background sync · JWT | React · PostgreSQL · PWA · AI | ![Stars](https://img.shields.io/github/stars/LuckysHorizon?style=flat-square) |
-| [**AI FitTracker**](https://github.com/LuckysHorizon/AI-Fitness-App-Expo-ReactNative) | AI-powered fitness companion — personalized recommendations, adaptive training | TypeScript · React Native · Python · AI/ML | ![Stars](https://img.shields.io/github/stars/LuckysHorizon/AI-Fitness-App-Expo-ReactNative?style=flat-square) |
-| [**ElectroBill**](https://github.com/LuckysHorizon/ElectroBill) | Electricity bill management system with full DevOps — CI/CD, containerization, cloud deploy | Node.js · React · Docker · Render | [![Live](https://img.shields.io/badge/live-demo-brightgreen?style=flat-square)](https://electrobill.onrender.com/) |
-| [**SmartReminder**](https://github.com/LuckysHorizon/SmartReminder) | NLP-powered intelligent reminder system with real-time scheduling across devices | TypeScript · Node.js · MongoDB · WebSocket | [![Live](https://img.shields.io/badge/live-demo-brightgreen?style=flat-square)](https://v0-luckys-horizon-i-os-app-three.vercel.app/) |
+| **TravelBilling** | Scalable billing platform — JWT auth, Redis caching, FastAPI PDF microservice, Docker CI/CD | `React` `Spring Boot` `Supabase` `Redis` `FastAPI` | [source](https://github.com/LuckysHorizon) |
+| **ReelHaus** | Event portal — **99.5% txn success rate** · QR-based ticketing · live seat tracking · Cashfree & Razorpay | `React` `Node.js` `PostgreSQL` `Redis` | [source](https://github.com/LuckysHorizon/ReelHaus-Dev) · [live](https://reelhaus.onrender.com/) |
+| **Vidyapath** | Offline-first PWA — **94% AI accuracy** · JWT · multilingual · background sync | `React` `PostgreSQL` `PWA` | [source](https://github.com/LuckysHorizon) |
+| **AI FitTracker** | Fitness companion — AI recommendations, adaptive training, offline sync | `TypeScript` `React Native` `Python` `AI/ML` | [source](https://github.com/LuckysHorizon/AI-Fitness-App-Expo-ReactNative) |
+| **LocallyLearn** | AI-ready desktop IDE — local-first, offline, Tauri + Monaco Editor | `Tauri` `React` `TypeScript` `Monaco` | [source](https://github.com/LuckysHorizon/LocallyLearn) |
+| **ElectroBill** | Electricity billing system with full DevOps — CI/CD, containerization, cloud deploy | `Node.js` `React` `Docker` `Render` | [source](https://github.com/LuckysHorizon/ElectroBill) · [live](https://electrobill.onrender.com/) |
+| **SmartReminder** | NLP-powered scheduling across devices — natural language commands, real-time sync | `TypeScript` `Node.js` `MongoDB` `WebSocket` | [source](https://github.com/LuckysHorizon/SmartReminder) · [live](https://v0-luckys-horizon-i-os-app-three.vercel.app/) |
+| **Grocery POS** | Full-featured Point of Sale system — inventory management, billing, reporting | `Java` `MySQL` `Apache Server` | [source](https://github.com/LuckysHorizon/Billing-Software) |
 
-</div>
+<br/>
 
 ---
 
-## 📈 Contribution Graph
+<br/>
+
+## `$ cat coding-profiles.md`
 
 <div align="center">
 
-[![Manikanta's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LuckysHorizon&bg_color=0D1117&color=58A6FF&line=0E75B6&point=58A6FF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<a href="https://leetcode.com/u/ManikantaBoda/">
+  <img src="https://leetcard.jacoblin.cool/ManikantaBoda?theme=dark&font=Fira+Code&ext=contest&hide=ranking&border=0&radius=8" alt="LeetCode Stats" />
+</a>
+
+<br/><br/>
+
+<a href="https://leetcode.com/u/ManikantaBoda/">
+  <img src="https://img.shields.io/badge/LeetCode-480%2B_Solved_%C2%B7_9_Badges_%C2%B7_Rank_%7E200K-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+&nbsp;
+<a href="https://www.codechef.com/users/manikantaboda">
+  <img src="https://img.shields.io/badge/CodeChef-446%2B_Solved_%C2%B7_3_Badges-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+</a>
 
 </div>
 
+<br/>
+
 ---
 
-## 🏅 Certifications
+<br/>
 
-| Certificate | Issuer | Year |
-|-------------|--------|------|
+## `$ cat certifications.md`
+
+| Certification | Issuer | Year |
+|---------------|--------|------|
 | AWS Academy Graduate — Cloud Foundations | Amazon Web Services | 2026 |
 | Cloud Computing | NPTEL | 2025 |
 | Java — OOP, Data Structures & Algorithms | Scaler | 2024 |
 
+<br/>
+
 ---
 
-## 🔗 Connect With Me
+<br/>
+
+## `$ cat activity-graph.svg`
 
 <div align="center">
 
-<a href="https://manikantaboda.online" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-manikantaboda.online-0e75b6?style=for-the-badge" alt="Portfolio" />
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=LuckysHorizon&bg_color=0D1117&color=58A6FF&line=58A6FF&point=58A6FF&area=true&area_color=0e75b6&hide_border=true&custom_title=Contribution+Activity"
+  alt="Activity Graph"
+/>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## `$ connect --open`
+
+<div align="center">
+
+<a href="https://manikantaboda.online">
+  <img src="https://img.shields.io/badge/-manikantaboda.online-0e75b6?style=for-the-badge&logo=safari&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/manikanta-boda-01b301344/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<a href="https://www.linkedin.com/in/manikanta-boda-01b301344/">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://github.com/LuckysHorizon" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<a href="https://github.com/LuckysHorizon">
+  <img src="https://img.shields.io/badge/-GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://leetcode.com/u/ManikantaBoda/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+<a href="https://leetcode.com/u/ManikantaBoda/">
+  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 &nbsp;
 <a href="mailto:manikantaboda07@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Let's+build+something+great+together.;Always+open+to+collaborations+%26+interesting+problems." alt="Footer typing" />
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=3000&pause=1500&color=8B949E&center=true&vCenter=true&width=600&lines=Let%27s+build+something+great+together.;Open+to+collaborations+and+interesting+problems.;Hyderabad%2C+India+%C2%B7+manikantaboda.online"
+  alt="Footer"
+/>
 
 </div>
 
+<br/>
+
 ---
 
+<br/>
+
+## `$ cat SETUP-STATS.md` — Fix stats if they show errors
+
+> The public GitHub-readme-stats Vercel instance can hit rate limits.
+> Run this GitHub Action in your profile repo for guaranteed stats that never fail.
+
+<details>
+<summary><b>One-time setup: self-hosted stats via GitHub Actions (5 minutes)</b></summary>
+
+<br/>
+
+**Step 1** — In your `LuckysHorizon` profile repo, create `.github/workflows/update-readme.yml`:
+
+```yaml
+name: Update README Stats
+on:
+  schedule:
+    - cron: '0 */6 * * *'   # regenerates every 6 hours
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: anuraghazra/github-readme-stats@latest
+        with:
+          username: LuckysHorizon
+          commit_message: 'chore: update readme stats'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+**Step 2** — Go to repo **Settings → Actions → General → Workflow permissions** → enable "Read and write permissions"
+
+**Step 3** — Run the workflow once manually from the **Actions** tab
+
+The stats SVGs will be generated directly into your repo and never depend on an external server again.
+
+</details>
+
+<br/>
+
 <div align="center">
-  <sub>⚡ Built with passion from Hyderabad, India · <a href="https://manikantaboda.online">manikantaboda.online</a></sub>
+  <sub>Built from Hyderabad, India &nbsp;·&nbsp; <a href="https://manikantaboda.online">manikantaboda.online</a> &nbsp;·&nbsp; <a href="https://github.com/LuckysHorizon">github.com/LuckysHorizon</a></sub>
 </div>
