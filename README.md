@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0e75b6,100:58A6FF&height=200&section=header&text=Manikanta%20Boda&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20%26%20Backend%20Engineer&descAlignY=58&descSize=20&descColor=8B949E&animation=fadeIn&fontFamily=Fira%20Code" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,50:0e75b6,100:58A6FF&amp;height=200&amp;section=header&amp;text=Manikanta%20Boda&amp;fontSize=60&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;desc=Full-Stack%20%26%20Backend%20Engineer&amp;descAlignY=58&amp;descSize=20&amp;descColor=8B949E&amp;animation=fadeIn&amp;fontFamily=Fira%20Code" alt="header" />
 
 </div>
 
@@ -9,7 +9,7 @@
 <div align="center">
 
 <a href="https://manikantaboda.online">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=600&color=FFFFFF&center=true&vCenter=true&width=800&lines=Building+production-grade+systems+from+Hyderabad;99.5%25+transaction+success+rate+in+production;94%25+AI+accuracy+in+production;Agentic+AI+%40+Kustard+Technologies;LeetCode+480%2B+%C2%B7+9+Badges+%C2%B7+Rank+%7E200K;B.Tech+CSE+%C2%B7+IARE+%C2%B7+CGPA+8.76" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=22&amp;duration=2000&amp;pause=600&amp;color=FFFFFF&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=Building+production-grade+systems+from+Hyderabad;99.5%25+transaction+success+rate+in+production;94%25+AI+accuracy+in+production;Agentic+AI+%40+Kustard+Technologies;LeetCode+480%2B+%C2%B7+9+Badges+%C2%B7+Rank+%7E200K;B.Tech+CSE+%C2%B7+IARE+%C2%B7+CGPA+8.76" alt="typing" />
 </a>
 
 </div>
@@ -19,24 +19,24 @@
 <div align="center">
 
 <a href="https://manikantaboda.online">
-  <img src="https://img.shields.io/badge/Portfolio-manikantaboda.online-0e75b6?style=for-the-badge&logo=safari&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-manikantaboda.online-0e75b6?style=for-the-badge&amp;logo=safari&amp;logoColor=white" />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/manikanta-boda-01b301344/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
 </a>
 &nbsp;
 <a href="https://leetcode.com/u/ManikantaBoda/">
-  <img src="https://img.shields.io/badge/LeetCode-480%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/LeetCode-480%2B%20Solved-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=black" />
 </a>
 &nbsp;
 <a href="mailto:manikantaboda07@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Mail%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-Mail%20Me-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=LuckysHorizon&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=LuckysHorizon&amp;style=for-the-badge&amp;color=0e75b6&amp;label=PROFILE+VIEWS" />
 
 </div>
 
@@ -46,7 +46,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=3&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0D1117,100:0D1117&amp;height=3&amp;section=header" />
 
 ## `$ whoami`
 
@@ -87,56 +87,56 @@ const manikanta: Developer = {
 **Languages**
 
 <p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" />
 </p>
 
 **Frontend**
 
 <p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" />
 </p>
 
 **Backend**
 
 <p>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&amp;logo=springboot&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&amp;logo=spring&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&amp;logo=express&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&amp;logo=flask&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&amp;logo=jsonwebtokens&amp;logoColor=white" />
 </p>
 
 **Databases & Cache**
 
 <p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&amp;logo=redis&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&amp;logo=supabase&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" />
 </p>
 
 **Cloud & DevOps**
 
 <p>
-<img src="https://img.shields.io/badge/AWS_S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white" />
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-<img src="https://img.shields.io/badge/CI%2FCD-0D1117?style=for-the-badge&logo=circleci&logoColor=white" />
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS_S3-FF9900?style=for-the-badge&amp;logo=amazons3&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&amp;logo=googlecloud&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&amp;logo=githubactions&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/CI%2FCD-0D1117?style=for-the-badge&amp;logo=circleci&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&amp;logo=render&amp;logoColor=black" />
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&amp;logo=cloudflare&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" />
 </p>
 
 <br/>
@@ -149,13 +149,13 @@ const manikanta: Developer = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=LuckysHorizon&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF&rank_icon=github" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=LuckysHorizon&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;icon_color=58A6FF&amp;text_color=C9D1D9&amp;ring_color=58A6FF&amp;rank_icon=github" alt="GitHub Stats" />
 &nbsp;&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuckysHorizon&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuckysHorizon&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;text_color=C9D1D9&amp;langs_count=8" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=LuckysHorizon&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6E96&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&stroke=0D1117" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=LuckysHorizon&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=0D1117&amp;ring=58A6FF&amp;fire=FF6E96&amp;currStreakLabel=58A6FF&amp;sideLabels=8B949E&amp;dates=8B949E&amp;stroke=0D1117" alt="GitHub Streak" />
 
 </div>
 
@@ -169,7 +169,7 @@ const manikanta: Developer = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=LuckysHorizon&theme=gitdimmed&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=LuckysHorizon&amp;theme=gitdimmed&amp;no-frame=true&amp;row=1&amp;column=7&amp;margin-w=8&amp;margin-h=8" alt="Trophies" />
 
 </div>
 
@@ -267,17 +267,17 @@ Electricity bill management with full DevOps — CI/CD pipelines, containerisati
 <div align="center">
 
 <a href="https://leetcode.com/u/ManikantaBoda/">
-<img src="https://leetcard.jacoblin.cool/ManikantaBoda?theme=dark&font=Fira+Code&ext=contest&hide=ranking&border=0&radius=8" alt="LeetCode Stats Card" />
+<img src="https://leetcard.jacoblin.cool/ManikantaBoda?theme=dark&amp;font=Fira+Code&amp;ext=contest&amp;hide=ranking&amp;border=0&amp;radius=8" alt="LeetCode Stats Card" />
 </a>
 
 <br/><br/>
 
 <a href="https://leetcode.com/u/ManikantaBoda/">
-<img src="https://img.shields.io/badge/LeetCode-480%2B%20Solved%20%C2%B7%209%20Badges%20%C2%B7%20Rank%20%7E200K-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+<img src="https://img.shields.io/badge/LeetCode-480%2B%20Solved%20%C2%B7%209%20Badges%20%C2%B7%20Rank%20%7E200K-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=black" />
 </a>
 &nbsp;
 <a href="https://www.codechef.com/users/manikantaboda">
-<img src="https://img.shields.io/badge/CodeChef-446%2B%20Solved%20%C2%B7%203%20Badges-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+<img src="https://img.shields.io/badge/CodeChef-446%2B%20Solved%20%C2%B7%203%20Badges-5B4638?style=for-the-badge&amp;logo=codechef&amp;logoColor=white" />
 </a>
 
 </div>
@@ -308,7 +308,7 @@ Electricity bill management with full DevOps — CI/CD pipelines, containerisati
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LuckysHorizon&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=0e75b6&hide_border=true&custom_title=Contribution+Activity" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LuckysHorizon&amp;bg_color=0D1117&amp;color=58A6FF&amp;line=58A6FF&amp;point=FFFFFF&amp;area=true&amp;area_color=0e75b6&amp;hide_border=true&amp;custom_title=Contribution+Activity" alt="Activity Graph" />
 
 </div>
 
@@ -323,31 +323,31 @@ Electricity bill management with full DevOps — CI/CD pipelines, containerisati
 <div align="center">
 
 <a href="https://manikantaboda.online">
-<img src="https://img.shields.io/badge/Portfolio-manikantaboda.online-0e75b6?style=for-the-badge&logo=safari&logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-manikantaboda.online-0e75b6?style=for-the-badge&amp;logo=safari&amp;logoColor=white" />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/manikanta-boda-01b301344/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
 </a>
 &nbsp;
 <a href="https://github.com/LuckysHorizon">
-<img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
 </a>
 &nbsp;
 <a href="https://leetcode.com/u/ManikantaBoda/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=black" />
 </a>
 &nbsp;
 <a href="mailto:manikantaboda07@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=3500&pause=1500&color=8B949E&center=true&vCenter=true&width=700&lines=Let%27s+build+something+great+together.;Always+open+to+collaborations+%26+interesting+problems.;Hyderabad%2C+India+%C2%B7+manikantaboda.online" alt="Footer typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=15&amp;duration=3500&amp;pause=1500&amp;color=8B949E&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Let%27s+build+something+great+together.;Always+open+to+collaborations+%26+interesting+problems.;Hyderabad%2C+India+%C2%B7+manikantaboda.online" alt="Footer typing" />
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:0e75b6,100:0D1117&height=120&section=footer" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:58A6FF,50:0e75b6,100:0D1117&amp;height=120&amp;section=footer" alt="footer" />
