@@ -1,31 +1,4 @@
-<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%"   stop-color="#0a0a0a"/>
-      <stop offset="50%"  stop-color="#1a1a2e"/>
-      <stop offset="100%" stop-color="#16213e"/>
-    </linearGradient>
-  </defs>
-  <rect width="900" height="220" fill="url(#bg)"/>
-  <path d="M0,160 C150,125 300,185 450,152 C600,118 750,178 900,145 L900,220 L0,220 Z" fill="#0D1117" opacity="0.6"/>
-  <path d="M0,182 C200,150 400,198 600,168 C750,142 850,176 900,162 L900,220 L0,220 Z" fill="#0D1117" opacity="0.85"/>
-  <line x1="100" y1="126" x2="340" y2="126" stroke="#C9A84C" stroke-width="0.8" opacity="0.7"/>
-  <line x1="560" y1="126" x2="800" y2="126" stroke="#C9A84C" stroke-width="0.8" opacity="0.7"/>
-  <text x="450" y="112"
-    font-family="Georgia, 'Times New Roman', serif"
-    font-size="58"
-    font-weight="bold"
-    fill="#F5F0E8"
-    letter-spacing="3"
-    text-anchor="middle">Manikanta Boda</text>
-  <text x="450" y="148"
-    font-family="'Helvetica Neue', Arial, sans-serif"
-    font-size="14"
-    font-weight="300"
-    fill="#C9A84C"
-    letter-spacing="5"
-    text-anchor="middle">FULL-STACK &amp; BACKEND ENGINEER</text>
-</svg>
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOTAwIiBoZWlnaHQ9IjIyMCIgdmlld0JveD0iMCAwIDkwMCAyMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImJnIiB4MT0iMCIgeTE9IjAiIHgyPSIxIiB5Mj0iMCI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiICAgc3RvcC1jb2xvcj0iIzBhMGEwYSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgIHN0b3AtY29sb3I9IiMxYTFhMmUiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjMTYyMTNlIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0iOTAwIiBoZWlnaHQ9IjIyMCIgZmlsbD0idXJsKCNiZykiLz4KICA8cGF0aCBkPSJNMCwxNjAgQzE1MCwxMjUgMzAwLDE4NSA0NTAsMTUyIEM2MDAsMTE4IDc1MCwxNzggOTAwLDE0NSBMOTAwLDIyMCBMMCwyMjAgWiIgZmlsbD0iIzBEMTExNyIgb3BhY2l0eT0iMC42Ii8+CiAgPHBhdGggZD0iTTAsMTgyIEMyMDAsMTUwIDQwMCwxOTggNjAwLDE2OCBDNzUwLDE0MiA4NTAsMTc2IDkwMCwxNjIgTDkwMCwyMjAgTDAsMjIwIFoiIGZpbGw9IiMwRDExMTciIG9wYWNpdHk9IjAuODUiLz4KICA8bGluZSB4MT0iMTAwIiB5MT0iMTI2IiB4Mj0iMzQwIiB5Mj0iMTI2IiBzdHJva2U9IiNDOUE4NEMiIHN0cm9rZS13aWR0aD0iMC44IiBvcGFjaXR5PSIwLjciLz4KICA8bGluZSB4MT0iNTYwIiB5MT0iMTI2IiB4Mj0iODAwIiB5Mj0iMTI2IiBzdHJva2U9IiNDOUE4NEMiIHN0cm9rZS13aWR0aD0iMC44IiBvcGFjaXR5PSIwLjciLz4KICA8dGV4dCB4PSI0NTAiIHk9IjExMiIKICAgIGZvbnQtZmFtaWx5PSJHZW9yZ2lhLCAnVGltZXMgTmV3IFJvbWFuJywgc2VyaWYiCiAgICBmb250LXNpemU9IjU4IgogICAgZm9udC13ZWlnaHQ9ImJvbGQiCiAgICBmaWxsPSIjRjVGMEU4IgogICAgbGV0dGVyLXNwYWNpbmc9IjMiCiAgICB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5NYW5pa2FudGEgQm9kYTwvdGV4dD4KICA8dGV4dCB4PSI0NTAiIHk9IjE0OCIKICAgIGZvbnQtZmFtaWx5PSInSGVsdmV0aWNhIE5ldWUnLCBBcmlhbCwgc2Fucy1zZXJpZiIKICAgIGZvbnQtc2l6ZT0iMTQiCiAgICBmb250LXdlaWdodD0iMzAwIgogICAgZmlsbD0iI0M5QTg0QyIKICAgIGxldHRlci1zcGFjaW5nPSI1IgogICAgdGV4dC1hbmNob3I9Im1pZGRsZSI+RlVMTC1TVEFDSyAmYW1wOyBCQUNLRU5EIEVOR0lORUVSPC90ZXh0Pgo8L3N2Zz4K" width="900" alt="Manikanta Boda - Full-Stack & Backend Engineer" />
 
 [![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=600&color=FFFFFF&center=true&vCenter=true&width=800&lines=Building+production-grade+systems+from+Hyderabad;99.5%25+transaction+success+rate+in+production;94%25+AI+accuracy+in+production;Agentic+AI+%40+Kustard+Technologies;LeetCode+480%2B+%C2%B7+9+Badges+%C2%B7+Rank+%7E200K;B.Tech+CSE+%C2%B7+IARE+%C2%B7+CGPA+8.76)](https://manikantaboda.online)
 
