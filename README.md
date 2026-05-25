@@ -1,40 +1,30 @@
-<svg width="100%" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
+<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#161B22"/>
-      <stop offset="50%" style="stop-color:#0e75b6"/>
-      <stop offset="100%" style="stop-color:#58A6FF"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#0a0a0a"/>
+      <stop offset="50%"  stop-color="#1a1a2e"/>
+      <stop offset="100%" stop-color="#16213e"/>
     </linearGradient>
-    <style>
-      .name {
-        font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
-        font-size: 58px;
-        font-weight: 700;
-        fill: #FFFFFF;
-        letter-spacing: 2px;
-        animation: fadeSlideIn 1.2s ease-out forwards;
-        opacity: 0;
-      }
-      .desc {
-        font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
-        font-size: 20px;
-        font-weight: 400;
-        fill: #8B949E;
-        letter-spacing: 1px;
-        animation: fadeSlideIn 1.2s ease-out 0.4s forwards;
-        opacity: 0;
-      }
-      @keyframes fadeSlideIn {
-        from { opacity: 0; transform: translateY(18px); }
-        to   { opacity: 1; transform: translateY(0); }
-      }
-    </style>
   </defs>
-  <rect width="900" height="220" fill="url(#bgGrad)"/>
-  <path d="M0,160 C150,120 300,190 450,150 C600,110 750,180 900,140 L900,220 L0,220 Z" fill="#0D1117" opacity="0.5"/>
-  <path d="M0,180 C200,145 400,200 600,165 C750,138 850,175 900,158 L900,220 L0,220 Z" fill="#0D1117" opacity="0.7"/>
-  <text x="450" y="110" text-anchor="middle" class="name">Manikanta Boda</text>
-  <text x="450" y="148" text-anchor="middle" class="desc">Full-Stack &amp; Backend Engineer</text>
+  <rect width="900" height="220" fill="url(#bg)"/>
+  <path d="M0,160 C150,125 300,185 450,152 C600,118 750,178 900,145 L900,220 L0,220 Z" fill="#0D1117" opacity="0.6"/>
+  <path d="M0,182 C200,150 400,198 600,168 C750,142 850,176 900,162 L900,220 L0,220 Z" fill="#0D1117" opacity="0.85"/>
+  <line x1="100" y1="126" x2="340" y2="126" stroke="#C9A84C" stroke-width="0.8" opacity="0.7"/>
+  <line x1="560" y1="126" x2="800" y2="126" stroke="#C9A84C" stroke-width="0.8" opacity="0.7"/>
+  <text x="450" y="112"
+    font-family="Georgia, 'Times New Roman', serif"
+    font-size="58"
+    font-weight="bold"
+    fill="#F5F0E8"
+    letter-spacing="3"
+    text-anchor="middle">Manikanta Boda</text>
+  <text x="450" y="148"
+    font-family="'Helvetica Neue', Arial, sans-serif"
+    font-size="14"
+    font-weight="300"
+    fill="#C9A84C"
+    letter-spacing="5"
+    text-anchor="middle">FULL-STACK &amp; BACKEND ENGINEER</text>
 </svg>
 
 [![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=600&color=FFFFFF&center=true&vCenter=true&width=800&lines=Building+production-grade+systems+from+Hyderabad;99.5%25+transaction+success+rate+in+production;94%25+AI+accuracy+in+production;Agentic+AI+%40+Kustard+Technologies;LeetCode+480%2B+%C2%B7+9+Badges+%C2%B7+Rank+%7E200K;B.Tech+CSE+%C2%B7+IARE+%C2%B7+CGPA+8.76)](https://manikantaboda.online)
